@@ -1,5 +1,5 @@
-syncapp
+Sync App
 ================
 
-Application allows you to keep all the inventory in Sync. 
-Sync is cloud based inventory management software
+Sync Application allows art galleries & museums to keep all the inventory in Sync. 
+ 
